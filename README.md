@@ -1,4 +1,4 @@
-# Salut, moi c'est Philippe 👋
+# Salut 👋
 
 ## À propos de moi
 
