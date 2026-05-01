@@ -1,5 +1,7 @@
 # Salut 👋
-
+![Windows](https://img.shields.io/badge/Windows-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+---
 ## À propos de moi
 
 Lycéen passionné par le code, l'IA et l'automatisation. 
