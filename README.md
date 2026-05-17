@@ -1,22 +1,23 @@
-# Salut 👋
+# Hey there 👋
 ![Windows](https://img.shields.io/badge/Windows-blue)
 ![Python](https://img.shields.io/badge/Python-yellow)
 ---
-## À propos de moi
-Lycéen passionné par le code, l'IA et l'automatisation et d'autres domaines.
-Je **construis** des trucs, je **casse des trucs**, j'**apprends** des trucs.
+## About me
+High school student passionate about coding, AI, automation, and more.
+I **build** stuff, I **break** stuff, I **learn** stuff.
 
-### Classe: 
-Encore au lycée (et fier de l'être) 
+### Grade:
+Still in high school (and proud of it)
 
-### Languages de programmations: 
-- Python est le principal
-- Un peu de powershell et de cmd
-- En train de réunir les ressources pour d'autres languages
-### Intérêts: 
-- IA & l'automatisation
-- Des trucs utiles parce que pourquoi pas
-- Sites webs dynamiques
+### Programming languages:
+- Python is the main one
+- A bit of PowerShell and CMD
+- Gathering resources to learn more languages
 
-### Fun fact: 
-*J'ai plus de projets en cours que de devoirs rendus à temps*
+### Interests:
+- AI & automation
+- Useful stuff, because why not
+- Dynamic websites
+
+### Fun fact:
+*I have more ongoing projects than assignments turned in on time*
