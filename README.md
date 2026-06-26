@@ -10,7 +10,8 @@ I **build** stuff, I **break** stuff, I **learn** stuff.
 Still in high school (and proud of it)
 
 ### Programming languages:
-- Python is the main one
+- Python
+- C#
 - A bit of PowerShell and CMD
 - Gathering resources to learn more languages
 
