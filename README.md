@@ -1,6 +1,7 @@
 # Hey there 👋
 ![Windows](https://img.shields.io/badge/Windows-blue)
 ![Python](https://img.shields.io/badge/Python-yellow)
+![Linux](https://img.shields.io/badge/linux-yellow)
 ---
 ## About me
 High school student passionate about coding, AI, automation, and more.
