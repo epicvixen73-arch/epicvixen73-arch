@@ -10,22 +10,28 @@
 ![Linux](https://img.shields.io/badge/linux-yellow)
 ---
 ## About me
-High school student passionate about coding, AI, automation, and more.
+High school student passionate about coding, AI, automation, and systems.
 I **build** stuff, I **break** stuff, I **learn** stuff.
 
 ### Grade:
 Still in high school (and proud of it)
 
 ### Programming languages:
-- Python
+- Python (mainly)
 - C#
-- A bit of PowerShell and CMD
-- Gathering resources to learn more languages
+>[!A bit of: ]
+>PowerShell
+>CMD
+>Shell
+Gathering resources to learn more languages: 
+  **Javascript**
+  **HTML & CSS**
 
 ### Interests:
 - AI & automation
 - Useful stuff, because why not
 - Dynamic websites
+- systems & networks
 
 ### Fun fact:
 *I have more ongoing projects than assignments turned in on time*
