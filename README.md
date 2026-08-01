@@ -20,11 +20,11 @@ Still in high school (and proud of it)
 - Python (mainly)
 - C#
 - A bit of: 
-    PowerShell
-    CMD
-    Shell
+    PowerShell, 
+    CMD, 
+    Shell, 
 - Gathering resources to learn more languages: 
-    **Javascript**
+    **Javascript**, 
     **HTML & CSS**
 
 ### Interests:
