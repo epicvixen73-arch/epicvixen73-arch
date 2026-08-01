@@ -25,7 +25,7 @@ Still in high school (and proud of it)
     Shell, 
 - Gathering resources to learn more languages: 
     **Javascript**, 
-    **HTML & CSS**
+    **HTML & CSS**, 
     **Typescript**
 ### Interests:
 - AI & automation
