@@ -19,8 +19,7 @@ Still in high school (and proud of it)
 ### Programming languages:
 - Python (mainly)
 - C#
->[!A bit of: ]
->
+[!A bit of: ]
 >PowerShell
 >CMD
 >Shell
