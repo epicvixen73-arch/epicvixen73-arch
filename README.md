@@ -20,6 +20,7 @@ Still in high school (and proud of it)
 - Python (mainly)
 - C#
 >[!A bit of: ]
+>
 >PowerShell
 >CMD
 >Shell
