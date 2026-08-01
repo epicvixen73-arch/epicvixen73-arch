@@ -1,3 +1,9 @@
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#CBC0ED"  />
+</div>
+
 # Hey there 👋
 ![Windows](https://img.shields.io/badge/Windows-blue)
 ![Python](https://img.shields.io/badge/Python-yellow)
