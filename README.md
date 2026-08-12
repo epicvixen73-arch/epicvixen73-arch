@@ -24,7 +24,7 @@ Still in high school (and proud of it)
     CMD, 
     Shell, 
 - Gathering resources to learn more languages: 
-    **Typescript**
+    **Typescript**,
     **Rust**
 ### Interests:
 - AI & automation
