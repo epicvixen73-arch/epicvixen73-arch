@@ -19,13 +19,9 @@ Still in high school (and proud of it)
 ### Programming languages:
 - Python (mainly)
 - C#
-- A bit of: 
-    PowerShell, 
-    CMD, 
-    Shell, 
 - Gathering resources to learn more languages: 
     **Typescript**,
-    **Rust**
+    **C++**
 ### Interests:
 - AI & automation
 - Useful stuff, because why not
