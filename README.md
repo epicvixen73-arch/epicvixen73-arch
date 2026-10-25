@@ -20,7 +20,7 @@ Still in high school (and proud of it)
 - C#
 - Gathering resources to learn more languages: 
     **Typescript**,
-    **C++**
+    **Rust**
 ### Interests:
 - AI & automation
 - Useful stuff, because why not
